@@ -1,0 +1,31 @@
+[gd_scene load_steps=4 format=3 uid="uid://bmwi86gj64imc"]
+
+[ext_resource type="Texture2D" uid="uid://bxhsadt67wa18" path="res://assets/space_background_pack/layers/parallax-space-backgound.png" id="1_muaqq"]
+[ext_resource type="Texture2D" uid="uid://ddii3kqbm2630" path="res://assets/space_background_pack/layers/parallax-space-big-planet.png" id="2_tsd02"]
+[ext_resource type="PackedScene" uid="uid://cp3e8q7wcp7bs" path="res://player.tscn" id="3_p4icv"]
+
+[node name="Battle" type="Node2D"]
+
+[node name="Player" parent="." instance=ExtResource("3_p4icv")]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="ColorRect" type="ColorRect" parent="."]
+custom_minimum_size = Vector2(270, 480)
+offset_right = 40.0
+offset_bottom = 40.0
+color = Color(1, 0.984314, 1, 1)
+
+[node name="TextureRect" type="TextureRect" parent="ColorRect"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("1_muaqq")
+
+[node name="bg1" type="Sprite2D" parent="ColorRect"]
+position = Vector2(157, 119)
+texture = ExtResource("2_tsd02")
+centered = false
