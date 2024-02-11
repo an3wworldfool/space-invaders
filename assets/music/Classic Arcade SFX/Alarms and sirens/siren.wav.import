@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://ouci3pno2yj6"
+path="res://.godot/imported/siren.wav-e6b5347b0445a3e8f502f1f5e2691536.sample"
+
+[deps]
+
+source_file="res://assets/music/Classic Arcade SFX/Alarms and sirens/siren.wav"
+dest_files=["res://.godot/imported/siren.wav-e6b5347b0445a3e8f502f1f5e2691536.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

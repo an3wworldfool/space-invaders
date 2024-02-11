@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bq5pyydgrkfex"
+path="res://.godot/imported/Power_up_6.wav-6cd8e49c824766da46674919ef026fc0.sample"
+
+[deps]
+
+source_file="res://assets/music/Classic Arcade SFX/Power ups and power downs/Power_up_6.wav"
+dest_files=["res://.godot/imported/Power_up_6.wav-6cd8e49c824766da46674919ef026fc0.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

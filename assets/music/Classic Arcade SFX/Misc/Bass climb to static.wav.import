@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bjro0iu0mb61f"
+path="res://.godot/imported/Bass climb to static.wav-2fb3421ef6761aa4e1fe766fae4bb561.sample"
+
+[deps]
+
+source_file="res://assets/music/Classic Arcade SFX/Misc/Bass climb to static.wav"
+dest_files=["res://.godot/imported/Bass climb to static.wav-2fb3421ef6761aa4e1fe766fae4bb561.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

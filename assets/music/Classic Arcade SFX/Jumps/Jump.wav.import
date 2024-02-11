@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://0x24i5j1upjl"
+path="res://.godot/imported/Jump.wav-c5281acd85a3122f847b0ee99dff5c21.sample"
+
+[deps]
+
+source_file="res://assets/music/Classic Arcade SFX/Jumps/Jump.wav"
+dest_files=["res://.godot/imported/Jump.wav-c5281acd85a3122f847b0ee99dff5c21.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b060q8hb82ycp"
+path="res://.godot/imported/Bass wave_2.wav-38f01b6bece20af8e6ab647cf697c0d8.sample"
+
+[deps]
+
+source_file="res://assets/music/Classic Arcade SFX/Misc/Bass wave_2.wav"
+dest_files=["res://.godot/imported/Bass wave_2.wav-38f01b6bece20af8e6ab647cf697c0d8.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
